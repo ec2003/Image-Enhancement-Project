@@ -78,7 +78,7 @@ For further detail, checkout [train_esrgan.ipynb](train_esrgan.ipynb) and [test_
 ![ssim.png](images/result/ssim.png)
 
 ## Demo Result
-![image_comparison.png](images/result/image_comparison.png)
+![image_comparison.png](image_comparison.png)
 - PSNR = 21.770206451416016
 - SSIM = 0.6498551964759827
 
